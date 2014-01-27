@@ -4,5 +4,4 @@
 
 ### Authors of Poetry
 
-* Poe
 * Shakespeare
