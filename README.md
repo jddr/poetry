@@ -5,4 +5,8 @@
 ### Authors of Poetry
 
 * Edgar Allan Poe
-* William Shakespeare
+
+### Selections
+
+* Dream within a Dream
+* Bridal Ballad
