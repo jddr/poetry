@@ -1,12 +1,13 @@
 # Poetry
+---
+with John Dullum
 
-## John Dullum
+---
 
-### Authors of Poetry
+## Authors of Poetry
 
 * Edgar Allan Poe
 
 ### Selections
 
 * Dream within a Dream (1849)
-* Bridal Ballad
