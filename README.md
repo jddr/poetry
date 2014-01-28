@@ -8,5 +8,5 @@
 
 ### Selections
 
-* Dream within a Dream
+* Dream within a Dream (1849)
 * Bridal Ballad
